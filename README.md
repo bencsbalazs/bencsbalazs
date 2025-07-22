@@ -1,12 +1,16 @@
-- 👋 Hi, I’m Balázs Bencs (@bencsbalazs)
-- 👀 I’m interested in blades, card games, board games, karate, GeoCaching, Driving, and Learning
-- 🌱 I’m currently learning Development with Python on an extreme level, Test-Driven Development, and Cybersecurity
-- 💞️ I’m looking to collaborate on anything. We can play games, develop games, or develop projects **together**.
+## Full-Stack Developer | Django • React • TDD Enthusiast | Based in Sweden 🇸🇪 | Open to roles in SE & DK
 
-- Others said about me:
-> Experienced software developer from the IBM CIO team. He is committed to knowledge sharing and modern software development. He is constantly evolving towards a secure, innovative future.
+👋 Hi, I’m Balázs Bencs (@bencsbalazs)
 
-<!---
-bencsbalazs/bencsbalazs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 I’m a passionate full-stack developer specializing in Django and React, with a deep love for clean code, clever architecture, and creative collaboration.
+
+📍 Based in Malmö/Lund, Sweden, and open to opportunities anywhere in Sweden or Denmark.
+
+🎯 I’m interested in blades, card games, board games, karate, GeoCaching, driving, and lifelong learning.
+
+🌱 I’m currently diving deep into advanced Python development, Test-Driven Development, and Cybersecurity.
+
+🚀 I’m actively looking for new job opportunities where I can grow, contribute, and be part of a meaningful team.
+
+🤝 Let’s connect — whether it’s to build great software, explore side projects, or just share ideas over coffee.
+
