@@ -1,4 +1,4 @@
-## Full-Stack Software Engineer| Django • React • TDD Enthusiast | Moving to Sweden 🇸🇪 | Open to roles in SE & DK & HU & FN & EN
+## Full-Stack Software Engineer| Django • React • TDD Enthusiast | Open to roles in SE & DK & HU & FN & EN & ES
 
 👋 Hi, I’m Balázs Bencs (@bencsbalazs)
 
