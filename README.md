@@ -1,14 +1,14 @@
-## Full-Stack Software Engineer| Django • React • TDD Enthusiast | Open to roles in SE & DK & HU & FN & EN & ES
+## Full-Stack Software Engineer| Django • React • Kafka • FastAPI • Cloud | Open to roles in SE & DK & HU & FN & EN & ES & CH
 
 👋 Hi, I’m Balázs Bencs (@bencsbalazs)
 
-💡 I'm a passionate **full-stack software engineer** who thrives on creating robust, scalable, and modern solutions. I'm a strong believer in clean code, agile methodologies (Scrum, Kanban), and continuous learning. My focus is on building end-to-end web applications, from a polished frontend to a reliable cloud infrastructure.
+💡 I'm a passionate **full-stack software engineer** who thrives on creating robust, scalable, and modern solutions from the beginning to the end. I'm a strong believer in clean code, agile methodologies (Scrum, Kanban), and continuous learning. My focus is on building end-to-end web applications, from a polished frontend to a reliable cloud infrastructure.
 
-📍 I'm currently based in Budapest, Hungary. I'm **open to work** and happy to relocating to opportunities in Sweden, Denmark, Hungary, Finland or other countries. I prefer the office work.
+📍 I'm currently based in Budapest, Hungary. I'm **open to work** and happy to relocating to opportunities in Sweden, Denmark, Hungary, Finland, United Kingdom, Estonia or other countries. I prefer the office work. I don't have family.
 
 🎯 I’m interested in blades, card games, board games, karate, GeoCaching, hiking, driving, and lifelong learning. (just after development)
 
-🌱 I’m currently diving deep LLM-s, Tensorflow and Communication skills.
+🌱 I’m currently diving deep LLM-s, Agents, prompt engineering and Communication skills.
 
 🚀 I’m actively looking for a new job opportunity where I can grow, contribute, and be part of a meaningful team.
 
@@ -18,9 +18,9 @@
 | Frontend |	React, Angular, Web Components, JavaScript, TypeScript, HTML, CSS, Bootstrap, Material UI, Tailwind, Canvas |
 | Backend  |	Node.js, Python, Django, Flask, FastAPI, PHP, Event Sourcing, REST APIs, GraphQL |
 | Databases |	PostgreSQL, MySQL, MariaDB, MongoDB, Elasticsearch, Kibana, Cloudant |
-| Cloud & DevOps |	AWS, Google Cloud, IBM Cloud, Kubernetes, Docker, Nginx, Apache, Git, GitHub Actions, GitLab CI/CD, Jenkins, SonarQube |
+| Cloud & DevOps |	AWS, Google Cloud, IBM Cloud, Kubernetes, Docker, Nginx, Apache, Git, GitHub Actions, GitLab CI/CD, Jenkins, SonarQube, Snyk |
 | Testing & Quality |	TDD, BDD, Jest, Pytest, Cypress, Selenium, Pylint, Ruff |
-| Other |	Scrum, Kanban, Jira, Trello, DDD, Plotly, TensorFlow, PyTorch, GPT CLI, Gemini CLI |
+| Other |	Scrum, Kanban, Jira, Trello, DDD, Plotly, TensorFlow, PyTorch, GPT CLI, Gemini CLI, Codex, Copilot |
 
 ### My Portfolio
 You can view my latest projects and work at [https://bencsbalazs.github.io](bencsbalazs.github.io).
